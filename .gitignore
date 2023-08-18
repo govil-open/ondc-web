@@ -26,3 +26,5 @@ go.work
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+
+.DS_Store
